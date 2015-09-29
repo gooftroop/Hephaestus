@@ -1,0 +1,1 @@
+module.exports = require("npm:karma-coverage@0.5.1/lib/index");

@@ -1,0 +1,1 @@
+module.exports = require("npm:istanbul@0.3.19/index");
